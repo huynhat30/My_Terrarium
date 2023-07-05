@@ -18,5 +18,4 @@ A web application that allows user to interact and create their desire Terrarium
 ## Sources
 Images of plants and leaves are taken from Microsoft Reponsive Web Design practise
 
-## Visit site here:
-[link](https://huynhat30.github.io/My_Terrarium/)
+## Visit site [here](https://huynhat30.github.io/My_Terrarium/)
